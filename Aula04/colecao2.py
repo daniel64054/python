@@ -13,10 +13,7 @@ def procedure():
   print("Example");
 
 
-importar  os 
+import  os 
 # diretório atual 
-def remover(os . remova) ( "output.txt" ) 
-os . rmdir ( "docs" ) 
-# diretório raiz 
-os . remover ( "/output.txt" ) 
-os . rmdir ( "/docs" )
+def remover(os . remova) :
+def remover(os . rmdir) :
