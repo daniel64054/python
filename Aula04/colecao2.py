@@ -13,7 +13,3 @@ def procedure():
   print("Example");
 
 
-import  os 
-# diretório atual 
-def remover(os . remova) :
-def remover(os . rmdir) :

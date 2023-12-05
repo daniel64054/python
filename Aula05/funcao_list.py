@@ -1,5 +1,5 @@
 lista = [12,54,12,78]
-dic ={"1":10,"2":30,"3":50}
+dic ={1:10,2:30,3:50}
 
 def soma (valores):
     rs = 0 
@@ -13,8 +13,8 @@ def soma2 (*valores):
     print(rs)
 
 def soma3 (**num):
-    a,b,c, num
-    rs = a+b+C
+    a,b,c = num
+    rs = num[a]+num[b]+num[C]
     print(rs)
 
 soma(lista)
